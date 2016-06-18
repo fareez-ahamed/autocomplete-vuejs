@@ -1,6 +1,6 @@
-# autocomplete
+# autocomplete-vuejs
 
-> A Vue.js project
+Sample VueJs component to demonstrate the Autocomplete using Bootstrap
 
 ## Build Setup
 
