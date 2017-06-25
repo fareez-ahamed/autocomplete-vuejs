@@ -49,7 +49,7 @@ export default {
         },
 
         down() {
-            if(this.current < this.suggestions.length - 1)
+            if(this.current < this.matches.length - 1)
                 this.current++;
         },
 
